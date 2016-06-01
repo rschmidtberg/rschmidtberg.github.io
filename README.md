@@ -6,6 +6,6 @@ This site describes the Continuous Integration and Continuous Deployment (CI/CD)
 
 The logical view of the RBC One CI/CD pipeline is shown below:
 
-
+![](Screen Shot 2016-06-01 at 11.10.11 AM.png)
 
 
